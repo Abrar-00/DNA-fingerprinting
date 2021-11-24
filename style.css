@@ -4,10 +4,8 @@
   margin: 0;
 }
 
-body {
-  background-image: url(./images/jj-ying-7JX0-bfiuxQ-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+.video-background {
+  background-color: rgb(34, 4, 63);
 }
 .sub-name {
   text-align: center;
@@ -56,8 +54,8 @@ body {
   display: list-item;
 }
 .gene-cloning video {
-  border: 2px solid black;
-  width: 75%;
+  /* border: 2px solid black; */
+  width: 100%;
 }
 .button {
 }
